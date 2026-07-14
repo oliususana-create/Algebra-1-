@@ -1,0 +1,4064 @@
+%PDF-1.4
+%
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+2 0 obj
+<< /Length 2048 >>
+stream
+BT
+/F1 9.5 Tf
+54 738 Td
+12 TL
+() Tj
+T*
+(ALGEBRA I FULL-YEAR COMPUTATIONAL COURSE) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Student Book and Teacher Answer Key) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Course design: full-year Algebra I, unit by unit, with computational practice only. This) Tj
+T*
+(  book intentionally avoids word problems and focuses on symbolic, numeric, tabular, and) Tj
+T*
+(  graph-ready algebra skills.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(How to Use This Book) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Each unit contains:) Tj
+T*
+() Tj
+T*
+(1. Learning targets aligned to Algebra I topics.) Tj
+T*
+(2. Formula sheet for quick reference.) Tj
+T*
+(3. Sample problems with worked solutions.) Tj
+T*
+(4. Classwork practice for guided or independent class use.) Tj
+T*
+(5. Homework practice for additional repetition.) Tj
+T*
+(6. Teacher answer key for every classwork and homework item.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(YEAR-AT-A-GLANCE PACING) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Unit  |  Topic  |  Suggested Time) Tj
+T*
+(1  |  Real Numbers, Properties, and Precision  |  2 weeks) Tj
+T*
+(2  |  Exponents, Radicals, and Rational Exponents  |  3 weeks) Tj
+T*
+(3  |  Expressions, Structure, and Equivalent Forms  |  3 weeks) Tj
+T*
+(4  |  Linear Equations, Inequalities, and Absolute Value  |  4 weeks) Tj
+T*
+(5  |  Coordinate Graphing and Linear Functions  |  4 weeks) Tj
+T*
+(6  |  Systems of Equations and Inequalities  |  4 weeks) Tj
+T*
+(7  |  Functions, Notation, Domain, Range, and Transformations  |  4 weeks) Tj
+T*
+(8  |  Polynomials and Factoring  |  4 weeks) Tj
+T*
+(9  |  Quadratic Functions and Equations  |  5 weeks) Tj
+T*
+(10  |  Exponential Functions and Sequences  |  3 weeks) Tj
+T*
+(11  |  Rational Expressions, Radicals, and Inverses  |  3 weeks) Tj
+T*
+(12  |  Statistics, Data Displays, and Linear Models  |  3 weeks) Tj
+T*
+(13  |  Cumulative Review and Final Exam Practice  |  2 weeks) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(COURSEWIDE FORMULA SHEETS) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Number and Quantity) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(- Natural numbers: 1,2,3,...) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Page /Parent 66 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 2 0 R >>
+endobj
+4 0 obj
+<< /Length 1982 >>
+stream
+BT
+/F1 9.5 Tf
+54 738 Td
+12 TL
+(- Whole numbers: 0,1,2,3,...) Tj
+T*
+(- Integers: ...,-2,-1,0,1,2,...) Tj
+T*
+(- Rational numbers: numbers that can be written as frac{a}{b}, where a,b are integers and) Tj
+T*
+(  b!=0) Tj
+T*
+(- Irrational numbers: non-repeating, non-terminating decimals that cannot be written as) Tj
+T*
+(  frac{a}{b}) Tj
+T*
+(- Absolute value: |a| is the distance from a to 0) Tj
+T*
+(- Percent error: frac{|\\text{approximate}-\\text{exact}|}{|\\text{exact}|}*100\\%) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Exponents and Radicals) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(- a^m* a^n=a^{m+n}) Tj
+T*
+(- frac{a^m}{a^n}=a^{m-n}, a!=0) Tj
+T*
+(- \(a^m\)^n=a^{mn}) Tj
+T*
+(- \(ab\)^n=a^nb^n) Tj
+T*
+(- <=ft\(frac{a}{b}\\right\)^n=frac{a^n}{b^n}, b!=0) Tj
+T*
+(- a^0=1, a!=0) Tj
+T*
+(- a^{-n}=frac{1}{a^n}, a!=0) Tj
+T*
+(- a^{1/n}=sqrt[n]{a}) Tj
+T*
+(- a^{m/n}=sqrt[n]{a^m}=\(sqrt[n]{a}\)^m) Tj
+T*
+(- sqrt{ab}=sqrt asqrt b) Tj
+T*
+(- sqrt{frac{a}{b}}=frac{sqrt a}{sqrt b}, b>0) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Linear Equations and Inequalities) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(- Slope: m=frac{y_2-y_1}{x_2-x_1}) Tj
+T*
+(- Slope-intercept form: y=mx+b) Tj
+T*
+(- Point-slope form: y-y_1=m\(x-x_1\)) Tj
+T*
+(- Standard form: Ax+By=C) Tj
+T*
+(- Horizontal line: y=c) Tj
+T*
+(- Vertical line: x=c) Tj
+T*
+(- Inequality rule: multiplying or dividing by a negative number reverses the inequality) Tj
+T*
+(  sign.) Tj
+T*
+(- Absolute value equations:) Tj
+T*
+(  - |x|=a\\Rightarrow x=a or x=-a, if a>=0) Tj
+T*
+(  - |x|<a\\Rightarrow -a<x<a) Tj
+T*
+(  - |x|>a\\Rightarrow x<-a or x>a) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Systems) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(- Substitution: solve one equation for a variable and substitute.) Tj
+T*
+(- Elimination: add or subtract equations to eliminate a variable.) Tj
+T*
+(- One solution: lines intersect once.) Tj
+T*
+(- No solution: parallel lines.) Tj
+T*
+(- Infinitely many solutions: same line.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Functions) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(- Function notation: f\(x\) means the output when input is x.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 66 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 2048 >>
+stream
+BT
+/F1 9.5 Tf
+54 738 Td
+12 TL
+(- Domain: set of allowed inputs.) Tj
+T*
+(- Range: set of possible outputs.) Tj
+T*
+(- Average rate of change: frac{f\(b\)-f\(a\)}{b-a}) Tj
+T*
+(- Transformation forms:) Tj
+T*
+(  - f\(x\)+k: vertical shift) Tj
+T*
+(  - f\(x+k\): horizontal shift left k) Tj
+T*
+(  - kf\(x\): vertical stretch/compression/reflection) Tj
+T*
+(  - f\(kx\): horizontal compression/stretch/reflection) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Polynomials and Factoring) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(- Standard form: terms in descending powers.) Tj
+T*
+(- Degree: greatest exponent of the variable.) Tj
+T*
+(- Distributive property: a\(b+c\)=ab+ac) Tj
+T*
+(- Difference of squares: a^2-b^2=\(a-b\)\(a+b\)) Tj
+T*
+(- Perfect square trinomials:) Tj
+T*
+(  - a^2+2ab+b^2=\(a+b\)^2) Tj
+T*
+(  - a^2-2ab+b^2=\(a-b\)^2) Tj
+T*
+(- Factoring x^2+bx+c: find numbers with sum b and product c.) Tj
+T*
+(- Factoring ax^2+bx+c: use grouping or another valid method.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Quadratics) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(- Standard form: f\(x\)=ax^2+bx+c) Tj
+T*
+(- Vertex form: f\(x\)=a\(x-h\)^2+k) Tj
+T*
+(- Factored form: f\(x\)=a\(x-r_1\)\(x-r_2\)) Tj
+T*
+(- Axis of symmetry: x=-frac{b}{2a}) Tj
+T*
+(- Vertex: <=ft\(-frac{b}{2a}, f<=ft\(-frac{b}{2a}\\right\)\\right\)) Tj
+T*
+(- Quadratic formula: x=frac{-b\\pmsqrt{b^2-4ac}}{2a}) Tj
+T*
+(- Discriminant: D=b^2-4ac) Tj
+T*
+(  - D>0: two real solutions) Tj
+T*
+(  - D=0: one real solution) Tj
+T*
+(  - D<0: two complex solutions) Tj
+T*
+(- Completing the square: x^2+bx=\(x+frac b2\)^2-\(frac b2\)^2) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Exponential Functions and Sequences) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(- Exponential form: f\(x\)=ab^x) Tj
+T*
+(- Growth: b>1) Tj
+T*
+(- Decay: 0<b<1) Tj
+T*
+(- Arithmetic sequence: a_n=a_1+\(n-1\)d) Tj
+T*
+(- Geometric sequence: a_n=a_1r^{n-1}) Tj
+T*
+(- Recursive arithmetic: a_n=a_{n-1}+d) Tj
+T*
+(- Recursive geometric: a_n=ra_{n-1}) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Statistics) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(- Mean: \\bar{x}=frac{\\text{sum of values}}{\\text{number of values}}) Tj
+T*
+(- Median: middle value after ordering.) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 66 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 1510 >>
+stream
+BT
+/F1 9.5 Tf
+54 738 Td
+12 TL
+(- Range: maximum minus minimum.) Tj
+T*
+(- Interquartile range: IQR=Q_3-Q_1) Tj
+T*
+(- Mean absolute deviation: average distance from the mean.) Tj
+T*
+(- Residual: observed y-value minus predicted y-value.) Tj
+T*
+(- Correlation coefficient r: measures strength and direction of linear association.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(UNIT 1: REAL NUMBERS, PROPERTIES, AND PRECISION) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Learning Targets) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(- Classify numbers as rational, irrational, integer, whole, or natural.) Tj
+T*
+(- Use properties of rational and irrational numbers.) Tj
+T*
+(- Apply order of operations and algebraic properties.) Tj
+T*
+(- Round values and choose appropriate precision.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Unit Formula Sheet) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(- Rational + rational = rational) Tj
+T*
+(- Rational * rational = rational) Tj
+T*
+(- Rational + irrational = irrational) Tj
+T*
+(- Nonzero rational * irrational = irrational) Tj
+T*
+(- Commutative: a+b=b+a, ab=ba) Tj
+T*
+(- Associative: \(a+b\)+c=a+\(b+c\), \(ab\)c=a\(bc\)) Tj
+T*
+(- Distributive: a\(b+c\)=ab+ac) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Sample Problems) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Sample 1) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Classify -frac{8}{4}.) Tj
+T*
+() Tj
+T*
+(-frac{8}{4}=-2) Tj
+T*
+() Tj
+T*
+(It is rational and an integer.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Sample 2) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Simplify 3[8-\(2+1\)^2]+5.) Tj
+T*
+() Tj
+T*
+(\(2+1\)^2=9) Tj
+T*
+(8-9=-1) Tj
+T*
+(3\(-1\)+5=2) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 66 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 1548 >>
+stream
+BT
+/F1 9.5 Tf
+54 738 Td
+12 TL
+(Answer: 2) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Sample 3) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(State whether 5+sqrt7 is rational or irrational.) Tj
+T*
+() Tj
+T*
+(A rational number plus an irrational number is irrational.) Tj
+T*
+() Tj
+T*
+(Answer: irrational) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Classwork) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(1. Classify sqrt{25} as rational or irrational.) Tj
+T*
+(2. Classify sqrt{18} as rational or irrational.) Tj
+T*
+(3. Simplify 4\(3+2\)-7.) Tj
+T*
+(4. Simplify 2^3+6\\div3.) Tj
+T*
+(5. Simplify -3\(4-9\)+2.) Tj
+T*
+(6. Simplify frac{3}{4}+frac{5}{6}.) Tj
+T*
+(7. Simplify frac{7}{8}-frac{1}{3}.) Tj
+T*
+(8. Simplify -5+|-12|.) Tj
+T*
+(9. Determine whether sqrt2* 6 is rational or irrational.) Tj
+T*
+(10. Round 18.7462 to the nearest hundredth.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Homework) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(1. Classify -9 as natural, whole, integer, rational, or irrational.) Tj
+T*
+(2. Classify 0 as whole, integer, rational, or irrational.) Tj
+T*
+(3. Simplify 6^2-4\(5\).) Tj
+T*
+(4. Simplify 18\\div3+2^4.) Tj
+T*
+(5. Simplify -2[7-\(3^2\)].) Tj
+T*
+(6. Simplify frac{2}{5}+frac{7}{10}.) Tj
+T*
+(7. Simplify frac{11}{12}-frac{1}{8}.) Tj
+T*
+(8. Simplify |-15|-|-6|.) Tj
+T*
+(9. Determine whether sqrt5+8 is rational or irrational.) Tj
+T*
+(10. Round 3.14159 to the nearest thousandth.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Teacher Answer Key) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Classwork Answers) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(1. rational) Tj
+T*
+(2. irrational) Tj
+T*
+(3. 13) Tj
+T*
+(4. 10) Tj
+T*
+(5. 17) Tj
+T*
+(6. frac{19}{12}) Tj
+T*
+(7. frac{13}{24}) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 66 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 1110 >>
+stream
+BT
+/F1 9.5 Tf
+54 738 Td
+12 TL
+(8. 7) Tj
+T*
+(9. irrational) Tj
+T*
+(10. 18.75) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Homework Answers) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(1. integer and rational) Tj
+T*
+(2. whole, integer, rational) Tj
+T*
+(3. 16) Tj
+T*
+(4. 22) Tj
+T*
+(5. 4) Tj
+T*
+(6. frac{11}{10}) Tj
+T*
+(7. frac{19}{24}) Tj
+T*
+(8. 9) Tj
+T*
+(9. irrational) Tj
+T*
+(10. 3.142) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(UNIT 2: EXPONENTS, RADICALS, AND RATIONAL EXPONENTS) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Learning Targets) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(- Apply exponent properties.) Tj
+T*
+(- Rewrite radicals using rational exponents.) Tj
+T*
+(- Rewrite rational exponents using radicals.) Tj
+T*
+(- Simplify radicals and expressions with rational exponents.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Unit Formula Sheet) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(- a^{m/n}=sqrt[n]{a^m}) Tj
+T*
+(- sqrt[n]{a}=a^{1/n}) Tj
+T*
+(- a^{-n}=frac1{a^n}) Tj
+T*
+(- a^0=1, a!=0) Tj
+T*
+(- sqrt{a^2}=|a|) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Sample Problems) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Sample 1) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Simplify x^4* x^7.) Tj
+T*
+() Tj
+T*
+(x^4* x^7=x^{11}) Tj
+T*
+() Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 66 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 1286 >>
+stream
+BT
+/F1 9.5 Tf
+54 738 Td
+12 TL
+(Sample 2) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Rewrite sqrt[3]{y^5} using rational exponents.) Tj
+T*
+() Tj
+T*
+(sqrt[3]{y^5}=y^{5/3}) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Sample 3) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Simplify 16^{3/4}.) Tj
+T*
+() Tj
+T*
+(16^{3/4}=\(sqrt[4]{16}\)^3=2^3=8) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Classwork) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(1. Simplify x^3x^8.) Tj
+T*
+(2. Simplify frac{a^{10}}{a^4}.) Tj
+T*
+(3. Simplify \(m^2\)^5.) Tj
+T*
+(4. Simplify \(3x^2\)\(4x^5\).) Tj
+T*
+(5. Simplify y^{-3}.) Tj
+T*
+(6. Simplify 9^{1/2}.) Tj
+T*
+(7. Simplify 27^{1/3}.) Tj
+T*
+(8. Simplify 81^{3/4}.) Tj
+T*
+(9. Rewrite sqrt{x^7} using rational exponents.) Tj
+T*
+(10. Rewrite p^{5/2} using radicals.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Homework) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(1. Simplify b^6b^9.) Tj
+T*
+(2. Simplify frac{r^{12}}{r^5}.) Tj
+T*
+(3. Simplify \(n^4\)^3.) Tj
+T*
+(4. Simplify \(5q^3\)\(2q^4\).) Tj
+T*
+(5. Simplify z^{-5}.) Tj
+T*
+(6. Simplify 25^{1/2}.) Tj
+T*
+(7. Simplify 64^{1/3}.) Tj
+T*
+(8. Simplify 32^{2/5}.) Tj
+T*
+(9. Rewrite sqrt[4]{a^9} using rational exponents.) Tj
+T*
+(10. Rewrite t^{7/3} using radicals.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Teacher Answer Key) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Classwork Answers) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(1. x^{11}) Tj
+T*
+(2. a^6) Tj
+T*
+(3. m^{10}) Tj
+T*
+(4. 12x^7) Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 66 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 14 0 R >>
+endobj
+16 0 obj
+<< /Length 1224 >>
+stream
+BT
+/F1 9.5 Tf
+54 738 Td
+12 TL
+(5. frac1{y^3}) Tj
+T*
+(6. 3) Tj
+T*
+(7. 3) Tj
+T*
+(8. 27) Tj
+T*
+(9. x^{7/2}) Tj
+T*
+(10. sqrt{p^5} or p^2sqrt p) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Homework Answers) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(1. b^{15}) Tj
+T*
+(2. r^7) Tj
+T*
+(3. n^{12}) Tj
+T*
+(4. 10q^7) Tj
+T*
+(5. frac1{z^5}) Tj
+T*
+(6. 5) Tj
+T*
+(7. 4) Tj
+T*
+(8. 4) Tj
+T*
+(9. a^{9/4}) Tj
+T*
+(10. sqrt[3]{t^7}) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(UNIT 3: EXPRESSIONS, STRUCTURE, AND EQUIVALENT FORMS) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Learning Targets) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(- Identify terms, coefficients, constants, and factors.) Tj
+T*
+(- Combine like terms.) Tj
+T*
+(- Use distribution and factoring to create equivalent expressions.) Tj
+T*
+(- Rewrite expressions to reveal structure.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Unit Formula Sheet) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(- Like terms have identical variable parts.) Tj
+T*
+(- Coefficient: numerical factor multiplying a variable term.) Tj
+T*
+(- Constant: term with no variable.) Tj
+T*
+(- Factor common factor: ab+ac=a\(b+c\)) Tj
+T*
+(- Standard linear expression: ax+b) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Sample Problems) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Sample 1) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Simplify 4x+7-2x+9.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 66 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 16 0 R >>
+endobj
+18 0 obj
+<< /Length 1177 >>
+stream
+BT
+/F1 9.5 Tf
+54 738 Td
+12 TL
+(4x-2x+7+9=2x+16) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Sample 2) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Factor 12x+18.) Tj
+T*
+() Tj
+T*
+(12x+18=6\(2x+3\)) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Sample 3) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Rewrite 3\(x+4\)+2\(x-5\) in standard form.) Tj
+T*
+() Tj
+T*
+(3x+12+2x-10=5x+2) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Classwork) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(1. Simplify 7x+3x.) Tj
+T*
+(2. Simplify 9a-4a+6.) Tj
+T*
+(3. Simplify 5\(2x+3\).) Tj
+T*
+(4. Simplify -2\(4y-7\).) Tj
+T*
+(5. Simplify 3\(x-2\)+4\(x+5\).) Tj
+T*
+(6. Simplify 8m+2-5m+11.) Tj
+T*
+(7. Factor 10x+15.) Tj
+T*
+(8. Factor 14a-21.) Tj
+T*
+(9. Factor 6x^2+9x.) Tj
+T*
+(10. Identify the coefficient of -8p^3.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Homework) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(1. Simplify 12y-5y.) Tj
+T*
+(2. Simplify 8b+9-3b.) Tj
+T*
+(3. Simplify 7\(3x-1\).) Tj
+T*
+(4. Simplify -5\(2n+6\).) Tj
+T*
+(5. Simplify 6\(a+1\)-2\(a-9\).) Tj
+T*
+(6. Simplify 11q-4+2q+10.) Tj
+T*
+(7. Factor 18x+24.) Tj
+T*
+(8. Factor 20m-35.) Tj
+T*
+(9. Factor 12r^2-8r.) Tj
+T*
+(10. Identify the constant in 9x^2-4x+11.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Teacher Answer Key) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Classwork Answers) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(1. 10x) Tj
+ET
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 66 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 18 0 R >>
+endobj
+20 0 obj
+<< /Length 1343 >>
+stream
+BT
+/F1 9.5 Tf
+54 738 Td
+12 TL
+(2. 5a+6) Tj
+T*
+(3. 10x+15) Tj
+T*
+(4. -8y+14) Tj
+T*
+(5. 7x+14) Tj
+T*
+(6. 3m+13) Tj
+T*
+(7. 5\(2x+3\)) Tj
+T*
+(8. 7\(2a-3\)) Tj
+T*
+(9. 3x\(2x+3\)) Tj
+T*
+(10. -8) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Homework Answers) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(1. 7y) Tj
+T*
+(2. 5b+9) Tj
+T*
+(3. 21x-7) Tj
+T*
+(4. -10n-30) Tj
+T*
+(5. 4a+24) Tj
+T*
+(6. 13q+6) Tj
+T*
+(7. 6\(3x+4\)) Tj
+T*
+(8. 5\(4m-7\)) Tj
+T*
+(9. 4r\(3r-2\)) Tj
+T*
+(10. 11) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(UNIT 4: LINEAR EQUATIONS, INEQUALITIES, AND ABSOLUTE VALUE) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Learning Targets) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(- Solve one-step, two-step, and multi-step linear equations.) Tj
+T*
+(- Solve equations with variables on both sides.) Tj
+T*
+(- Solve and graph linear inequalities.) Tj
+T*
+(- Solve absolute value equations and inequalities.) Tj
+T*
+(- Rearrange literal equations.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Unit Formula Sheet) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(- Equation solving goal: isolate the variable.) Tj
+T*
+(- Use inverse operations.) Tj
+T*
+(- Keep equations balanced by doing the same operation to both sides.) Tj
+T*
+(- Inequality reversal: if multiplying or dividing by a negative, reverse <,>,<=,>=.) Tj
+T*
+(- |ax+b|=c\\Rightarrow ax+b=c or ax+b=-c, if c>=0.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Sample Problems) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Sample 1) Tj
+ET
+endstream
+endobj
+21 0 obj
+<< /Type /Page /Parent 66 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 20 0 R >>
+endobj
+22 0 obj
+<< /Length 1107 >>
+stream
+BT
+/F1 9.5 Tf
+54 738 Td
+12 TL
+() Tj
+T*
+() Tj
+T*
+(Solve 3x+5=20.) Tj
+T*
+() Tj
+T*
+(3x=15) Tj
+T*
+(x=5) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Sample 2) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Solve -2x+7<=15.) Tj
+T*
+() Tj
+T*
+(-2x<=8) Tj
+T*
+(x>=-4) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Sample 3) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Solve |x-3|=8.) Tj
+T*
+() Tj
+T*
+(x-3=8 \\quad \\text{or} \\quad x-3=-8) Tj
+T*
+(x=11 \\quad \\text{or} \\quad x=-5) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Classwork) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(1. Solve x+8=15.) Tj
+T*
+(2. Solve 4x=28.) Tj
+T*
+(3. Solve 3x-7=11.) Tj
+T*
+(4. Solve 5\(x+2\)=35.) Tj
+T*
+(5. Solve 7x-4=3x+12.) Tj
+T*
+(6. Solve frac{x}{3}+5=9.) Tj
+T*
+(7. Solve 2x-1<9.) Tj
+T*
+(8. Solve -3x+6>=15.) Tj
+T*
+(9. Solve |x+4|=10.) Tj
+T*
+(10. Solve A=lw for w.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Homework) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(1. Solve x-9=14.) Tj
+T*
+(2. Solve -6x=42.) Tj
+T*
+(3. Solve 2x+13=31.) Tj
+T*
+(4. Solve -4\(x-3\)=20.) Tj
+T*
+(5. Solve 9x+1=4x+26.) Tj
+T*
+(6. Solve frac{x}{5}-2=6.) Tj
+T*
+(7. Solve 5x+3<=18.) Tj
+T*
+(8. Solve -2x-7>5.) Tj
+T*
+(9. Solve |2x-1|=9.) Tj
+T*
+(10. Solve P=2l+2w for l.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Teacher Answer Key) Tj
+ET
+endstream
+endobj
+23 0 obj
+<< /Type /Page /Parent 66 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 22 0 R >>
+endobj
+24 0 obj
+<< /Length 1175 >>
+stream
+BT
+/F1 9.5 Tf
+54 738 Td
+12 TL
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Classwork Answers) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(1. x=7) Tj
+T*
+(2. x=7) Tj
+T*
+(3. x=6) Tj
+T*
+(4. x=5) Tj
+T*
+(5. x=4) Tj
+T*
+(6. x=12) Tj
+T*
+(7. x<5) Tj
+T*
+(8. x<=-3) Tj
+T*
+(9. x=6 or x=-14) Tj
+T*
+(10. w=frac{A}{l}) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Homework Answers) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(1. x=23) Tj
+T*
+(2. x=-7) Tj
+T*
+(3. x=9) Tj
+T*
+(4. x=-2) Tj
+T*
+(5. x=5) Tj
+T*
+(6. x=40) Tj
+T*
+(7. x<=3) Tj
+T*
+(8. x<-6) Tj
+T*
+(9. x=5 or x=-4) Tj
+T*
+(10. l=frac{P-2w}{2}) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(UNIT 5: COORDINATE GRAPHING AND LINEAR FUNCTIONS) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Learning Targets) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(- Find slope from points, tables, and equations.) Tj
+T*
+(- Graph lines in slope-intercept, point-slope, and standard form.) Tj
+T*
+(- Write equations of lines.) Tj
+T*
+(- Identify parallel and perpendicular slopes.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Unit Formula Sheet) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(- m=frac{y_2-y_1}{x_2-x_1}) Tj
+T*
+(- y=mx+b) Tj
+T*
+(- y-y_1=m\(x-x_1\)) Tj
+T*
+(- Parallel lines have equal slopes.) Tj
+T*
+(- Perpendicular lines have slopes whose product is -1.) Tj
+T*
+(- x-intercept: set y=0.) Tj
+ET
+endstream
+endobj
+25 0 obj
+<< /Type /Page /Parent 66 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 24 0 R >>
+endobj
+26 0 obj
+<< /Length 1475 >>
+stream
+BT
+/F1 9.5 Tf
+54 738 Td
+12 TL
+(- y-intercept: set x=0.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Sample Problems) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Sample 1) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Find the slope through \(2,5\) and \(6,13\).) Tj
+T*
+() Tj
+T*
+(m=frac{13-5}{6-2}=frac84=2) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Sample 2) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Write the equation with slope 3 and y-intercept -4.) Tj
+T*
+() Tj
+T*
+(y=3x-4) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Sample 3) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Find the x-intercept of 2x+3y=12.) Tj
+T*
+() Tj
+T*
+(Set y=0:) Tj
+T*
+(2x=12) Tj
+T*
+(x=6) Tj
+T*
+() Tj
+T*
+(Answer: \(6,0\)) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Classwork) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(1. Find the slope through \(1,2\) and \(4,8\).) Tj
+T*
+(2. Find the slope through \(-2,5\) and \(3,-5\).) Tj
+T*
+(3. Write the equation with slope 4 and y-intercept 1.) Tj
+T*
+(4. Write the equation with slope -2 and y-intercept 7.) Tj
+T*
+(5. Find the slope of y=frac32x-9.) Tj
+T*
+(6. Find the y-intercept of y=-5x+4.) Tj
+T*
+(7. Find the x-intercept of 3x+2y=18.) Tj
+T*
+(8. Find the y-intercept of 4x-5y=20.) Tj
+T*
+(9. Write a line parallel to y=2x-6 through \(0,5\).) Tj
+T*
+(10. Write a line perpendicular to y=frac12x+3 through \(0,-1\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Homework) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(1. Find the slope through \(0,4\) and \(2,10\).) Tj
+T*
+(2. Find the slope through \(-3,-1\) and \(1,7\).) Tj
+T*
+(3. Write the equation with slope frac12 and y-intercept -3.) Tj
+T*
+(4. Write the equation with slope -4 and y-intercept 6.) Tj
+ET
+endstream
+endobj
+27 0 obj
+<< /Type /Page /Parent 66 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 26 0 R >>
+endobj
+28 0 obj
+<< /Length 1331 >>
+stream
+BT
+/F1 9.5 Tf
+54 738 Td
+12 TL
+(5. Find the slope of y=-frac45x+2.) Tj
+T*
+(6. Find the y-intercept of y=7x-8.) Tj
+T*
+(7. Find the x-intercept of 5x+y=30.) Tj
+T*
+(8. Find the y-intercept of 2x+3y=15.) Tj
+T*
+(9. Write a line parallel to y=-3x+1 through \(0,4\).) Tj
+T*
+(10. Write a line perpendicular to y=-frac14x+2 through \(0,9\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Teacher Answer Key) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Classwork Answers) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(1. 2) Tj
+T*
+(2. -2) Tj
+T*
+(3. y=4x+1) Tj
+T*
+(4. y=-2x+7) Tj
+T*
+(5. frac32) Tj
+T*
+(6. \(0,4\)) Tj
+T*
+(7. \(6,0\)) Tj
+T*
+(8. \(0,-4\)) Tj
+T*
+(9. y=2x+5) Tj
+T*
+(10. y=-2x-1) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Homework Answers) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(1. 3) Tj
+T*
+(2. 2) Tj
+T*
+(3. y=frac12x-3) Tj
+T*
+(4. y=-4x+6) Tj
+T*
+(5. -frac45) Tj
+T*
+(6. \(0,-8\)) Tj
+T*
+(7. \(6,0\)) Tj
+T*
+(8. \(0,5\)) Tj
+T*
+(9. y=-3x+4) Tj
+T*
+(10. y=4x+9) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(UNIT 6: SYSTEMS OF EQUATIONS AND INEQUALITIES) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Learning Targets) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(- Solve linear systems by graphing, substitution, and elimination.) Tj
+T*
+(- Classify systems as one solution, no solution, or infinitely many solutions.) Tj
+T*
+(- Solve systems involving a line and a quadratic.) Tj
+T*
+(- Solve and graph systems of linear inequalities.) Tj
+T*
+() Tj
+T*
+() Tj
+ET
+endstream
+endobj
+29 0 obj
+<< /Type /Page /Parent 66 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 28 0 R >>
+endobj
+30 0 obj
+<< /Length 1186 >>
+stream
+BT
+/F1 9.5 Tf
+54 738 Td
+12 TL
+(Unit Formula Sheet) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(- Solution of a system: ordered pair satisfying every equation.) Tj
+T*
+(- Elimination works because adding a multiple of one equation to another preserves the) Tj
+T*
+(  solution set.) Tj
+T*
+(- Linear-quadratic systems: substitute the linear expression into the quadratic equation.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Sample Problems) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Sample 1) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Solve:) Tj
+T*
+() Tj
+T*
+(y=x+2) Tj
+T*
+(y=3x-4) Tj
+T*
+() Tj
+T*
+(Set equal:) Tj
+T*
+(x+2=3x-4) Tj
+T*
+(6=2x) Tj
+T*
+(x=3) Tj
+T*
+(y=5) Tj
+T*
+() Tj
+T*
+(Answer: \(3,5\)) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Sample 2) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Solve:) Tj
+T*
+() Tj
+T*
+(2x+y=7) Tj
+T*
+(3x-y=8) Tj
+T*
+() Tj
+T*
+(Add:) Tj
+T*
+(5x=15) Tj
+T*
+(x=3) Tj
+T*
+(2\(3\)+y=7\\Rightarrow y=1) Tj
+T*
+() Tj
+T*
+(Answer: \(3,1\)) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Classwork) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(1. Solve: y=x+1, y=2x-3.) Tj
+T*
+(2. Solve: y=-x+5, y=x+1.) Tj
+T*
+(3. Solve: x+y=9, x-y=1.) Tj
+T*
+(4. Solve: 2x+y=10, x-y=2.) Tj
+T*
+(5. Solve: 3x+2y=16, x+2y=8.) Tj
+T*
+(6. Classify: y=2x+1, y=2x-4.) Tj
+T*
+(7. Classify: 2x+y=5, 4x+2y=10.) Tj
+T*
+(8. Solve: y=x^2, y=4.) Tj
+ET
+endstream
+endobj
+31 0 obj
+<< /Type /Page /Parent 66 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 30 0 R >>
+endobj
+32 0 obj
+<< /Length 1343 >>
+stream
+BT
+/F1 9.5 Tf
+54 738 Td
+12 TL
+(9. Solve: y=x^2+1, y=5.) Tj
+T*
+(10. State one solution to the inequality system y>x, y<5.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Homework) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(1. Solve: y=x+4, y=3x.) Tj
+T*
+(2. Solve: y=-2x+6, y=x-3.) Tj
+T*
+(3. Solve: x+y=12, x-y=4.) Tj
+T*
+(4. Solve: 4x+y=18, x-y=3.) Tj
+T*
+(5. Solve: 5x+y=19, 2x-y=2.) Tj
+T*
+(6. Classify: y=-x+2, y=-x+7.) Tj
+T*
+(7. Classify: 3x-y=6, 6x-2y=12.) Tj
+T*
+(8. Solve: y=x^2, y=9.) Tj
+T*
+(9. Solve: y=x^2-2, y=7.) Tj
+T*
+(10. State one solution to the inequality system y<2x, y>0.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Teacher Answer Key) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Classwork Answers) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(1. \(4,5\)) Tj
+T*
+(2. \(2,3\)) Tj
+T*
+(3. \(5,4\)) Tj
+T*
+(4. \(4,2\)) Tj
+T*
+(5. \(4,2\)) Tj
+T*
+(6. no solution) Tj
+T*
+(7. infinitely many solutions) Tj
+T*
+(8. \(-2,4\), \(2,4\)) Tj
+T*
+(9. \(-2,5\), \(2,5\)) Tj
+T*
+(10. Sample: \(1,2\)) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Homework Answers) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(1. \(2,6\)) Tj
+T*
+(2. \(3,0\)) Tj
+T*
+(3. \(8,4\)) Tj
+T*
+(4. \(frac{21}{5},frac65\)) Tj
+T*
+(5. \(3,4\)) Tj
+T*
+(6. no solution) Tj
+T*
+(7. infinitely many solutions) Tj
+T*
+(8. \(-3,9\), \(3,9\)) Tj
+T*
+(9. \(-3,7\), \(3,7\)) Tj
+T*
+(10. Sample: \(1,1\)) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(UNIT 7: FUNCTIONS, NOTATION, DOMAIN, RANGE, AND TRANSFORMATIONS) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+33 0 obj
+<< /Type /Page /Parent 66 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 32 0 R >>
+endobj
+34 0 obj
+<< /Length 1558 >>
+stream
+BT
+/F1 9.5 Tf
+54 738 Td
+12 TL
+() Tj
+T*
+() Tj
+T*
+(Learning Targets) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(- Determine whether relations are functions.) Tj
+T*
+(- Evaluate function notation.) Tj
+T*
+(- Find domain and range from sets, tables, and equations.) Tj
+T*
+(- Calculate average rate of change.) Tj
+T*
+(- Identify transformations of functions.) Tj
+T*
+(- Find inverse functions for simple linear functions.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Unit Formula Sheet) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(- Function rule: each input has exactly one output.) Tj
+T*
+(- f\(a\): substitute a for x.) Tj
+T*
+(- Average rate of change: frac{f\(b\)-f\(a\)}{b-a}) Tj
+T*
+(- Inverse of a linear function: replace f\(x\) with y, switch x and y, solve for y.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Sample Problems) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Sample 1) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(If f\(x\)=2x^2-3, find f\(4\).) Tj
+T*
+() Tj
+T*
+(f\(4\)=2\(4\)^2-3=32-3=29) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Sample 2) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Find the inverse of f\(x\)=3x-5.) Tj
+T*
+() Tj
+T*
+(y=3x-5) Tj
+T*
+(x=3y-5) Tj
+T*
+(x+5=3y) Tj
+T*
+(y=frac{x+5}{3}) Tj
+T*
+() Tj
+T*
+(Answer: f^{-1}\(x\)=frac{x+5}{3}) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Classwork) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(1. If f\(x\)=3x+2, find f\(5\).) Tj
+T*
+(2. If g\(x\)=x^2-4, find g\(-3\).) Tj
+T*
+(3. If h\(x\)=frac{x}{2}+7, find h\(10\).) Tj
+T*
+(4. Find the domain of \\{\(-2,5\),\(0,1\),\(4,9\)\\}.) Tj
+T*
+(5. Find the range of \\{\(-2,5\),\(0,1\),\(4,9\)\\}.) Tj
+T*
+(6. Is \\{\(1,2\),\(1,3\),\(4,5\)\\} a function) Tj
+T*
+(7. Find the average rate of change of f\(x\)=x^2 from x=1 to x=4.) Tj
+ET
+endstream
+endobj
+35 0 obj
+<< /Type /Page /Parent 66 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 34 0 R >>
+endobj
+36 0 obj
+<< /Length 1452 >>
+stream
+BT
+/F1 9.5 Tf
+54 738 Td
+12 TL
+(8. Describe the transformation f\(x\)+6.) Tj
+T*
+(9. Describe the transformation f\(x-3\).) Tj
+T*
+(10. Find the inverse of f\(x\)=2x+8.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Homework) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(1. If f\(x\)=4x-1, find f\(6\).) Tj
+T*
+(2. If g\(x\)=x^2+2x, find g\(3\).) Tj
+T*
+(3. If h\(x\)=frac{x-4}{3}, find h\(13\).) Tj
+T*
+(4. Find the domain of \\{\(-1,7\),\(2,8\),\(5,8\)\\}.) Tj
+T*
+(5. Find the range of \\{\(-1,7\),\(2,8\),\(5,8\)\\}.) Tj
+T*
+(6. Is \\{\(2,4\),\(3,4\),\(4,4\)\\} a function) Tj
+T*
+(7. Find the average rate of change of f\(x\)=2x+1 from x=-2 to x=3.) Tj
+T*
+(8. Describe the transformation f\(x\)-4.) Tj
+T*
+(9. Describe the transformation 2f\(x\).) Tj
+T*
+(10. Find the inverse of f\(x\)=5x-10.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Teacher Answer Key) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Classwork Answers) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(1. 17) Tj
+T*
+(2. 5) Tj
+T*
+(3. 12) Tj
+T*
+(4. \\{-2,0,4\\}) Tj
+T*
+(5. \\{1,5,9\\}) Tj
+T*
+(6. no) Tj
+T*
+(7. 5) Tj
+T*
+(8. vertical shift up 6) Tj
+T*
+(9. horizontal shift right 3) Tj
+T*
+(10. f^{-1}\(x\)=frac{x-8}{2}) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Homework Answers) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(1. 23) Tj
+T*
+(2. 15) Tj
+T*
+(3. 3) Tj
+T*
+(4. \\{-1,2,5\\}) Tj
+T*
+(5. \\{7,8\\}) Tj
+T*
+(6. yes) Tj
+T*
+(7. 2) Tj
+T*
+(8. vertical shift down 4) Tj
+T*
+(9. vertical stretch by factor 2) Tj
+T*
+(10. f^{-1}\(x\)=frac{x+10}{5}) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(UNIT 8: POLYNOMIALS AND FACTORING) Tj
+ET
+endstream
+endobj
+37 0 obj
+<< /Type /Page /Parent 66 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 36 0 R >>
+endobj
+38 0 obj
+<< /Length 1228 >>
+stream
+BT
+/F1 9.5 Tf
+54 738 Td
+12 TL
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Learning Targets) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(- Add, subtract, and multiply polynomials.) Tj
+T*
+(- Classify polynomials by degree and number of terms.) Tj
+T*
+(- Factor common factors, trinomials, and special products.) Tj
+T*
+(- Use factoring to reveal zeros.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Unit Formula Sheet) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(- Monomial: one term.) Tj
+T*
+(- Binomial: two terms.) Tj
+T*
+(- Trinomial: three terms.) Tj
+T*
+(- Degree of polynomial: greatest exponent after simplification.) Tj
+T*
+(- FOIL: \(a+b\)\(c+d\)=ac+ad+bc+bd) Tj
+T*
+(- Zero product property: if ab=0, then a=0 or b=0.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Sample Problems) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Sample 1) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Add \(3x^2+2x-5\)+\(x^2-7x+9\).) Tj
+T*
+() Tj
+T*
+(4x^2-5x+4) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Sample 2) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Multiply \(x+4\)\(x-6\).) Tj
+T*
+() Tj
+T*
+(x^2-6x+4x-24=x^2-2x-24) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Sample 3) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Factor x^2+7x+12.) Tj
+T*
+() Tj
+T*
+(Numbers with product 12 and sum 7: 3 and 4.) Tj
+T*
+() Tj
+T*
+(x^2+7x+12=\(x+3\)\(x+4\)) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Classwork) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(1. Add \(2x^2+3x+1\)+\(5x^2-x+4\).) Tj
+ET
+endstream
+endobj
+39 0 obj
+<< /Type /Page /Parent 66 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 38 0 R >>
+endobj
+40 0 obj
+<< /Length 1366 >>
+stream
+BT
+/F1 9.5 Tf
+54 738 Td
+12 TL
+(2. Subtract \(7x^2+2x-8\)-\(3x^2+5x-1\).) Tj
+T*
+(3. Multiply 3x\(2x^2-4x+5\).) Tj
+T*
+(4. Multiply \(x+2\)\(x+5\).) Tj
+T*
+(5. Multiply \(x-3\)\(x+7\).) Tj
+T*
+(6. Multiply \(2x+1\)\(x-4\).) Tj
+T*
+(7. Factor x^2+9x+20.) Tj
+T*
+(8. Factor x^2-5x+6.) Tj
+T*
+(9. Factor x^2-16.) Tj
+T*
+(10. Factor 2x^2+7x+3.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Homework) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(1. Add \(4x^2-2x+6\)+\(x^2+8x-9\).) Tj
+T*
+(2. Subtract \(9x^2-x+2\)-\(4x^2+3x+7\).) Tj
+T*
+(3. Multiply -2x\(5x^2+x-3\).) Tj
+T*
+(4. Multiply \(x+6\)\(x+1\).) Tj
+T*
+(5. Multiply \(x-8\)\(x+2\).) Tj
+T*
+(6. Multiply \(3x-2\)\(x+5\).) Tj
+T*
+(7. Factor x^2+8x+15.) Tj
+T*
+(8. Factor x^2-7x+10.) Tj
+T*
+(9. Factor x^2-25.) Tj
+T*
+(10. Factor 3x^2+10x+3.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Teacher Answer Key) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Classwork Answers) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(1. 7x^2+2x+5) Tj
+T*
+(2. 4x^2-3x-7) Tj
+T*
+(3. 6x^3-12x^2+15x) Tj
+T*
+(4. x^2+7x+10) Tj
+T*
+(5. x^2+4x-21) Tj
+T*
+(6. 2x^2-7x-4) Tj
+T*
+(7. \(x+4\)\(x+5\)) Tj
+T*
+(8. \(x-2\)\(x-3\)) Tj
+T*
+(9. \(x-4\)\(x+4\)) Tj
+T*
+(10. \(2x+1\)\(x+3\)) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Homework Answers) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(1. 5x^2+6x-3) Tj
+T*
+(2. 5x^2-4x-5) Tj
+T*
+(3. -10x^3-2x^2+6x) Tj
+T*
+(4. x^2+7x+6) Tj
+T*
+(5. x^2-6x-16) Tj
+T*
+(6. 3x^2+13x-10) Tj
+T*
+(7. \(x+3\)\(x+5\)) Tj
+T*
+(8. \(x-5\)\(x-2\)) Tj
+T*
+(9. \(x-5\)\(x+5\)) Tj
+ET
+endstream
+endobj
+41 0 obj
+<< /Type /Page /Parent 66 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 40 0 R >>
+endobj
+42 0 obj
+<< /Length 1303 >>
+stream
+BT
+/F1 9.5 Tf
+54 738 Td
+12 TL
+(10. \(3x+1\)\(x+3\)) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(UNIT 9: QUADRATIC FUNCTIONS AND EQUATIONS) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Learning Targets) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(- Graph quadratic functions and identify key features.) Tj
+T*
+(- Solve quadratic equations by factoring, square roots, completing the square, and quadratic) Tj
+T*
+(  formula.) Tj
+T*
+(- Use the discriminant to classify solutions.) Tj
+T*
+(- Rewrite quadratics in equivalent forms.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Unit Formula Sheet) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(- f\(x\)=ax^2+bx+c) Tj
+T*
+(- Axis: x=-frac{b}{2a}) Tj
+T*
+(- Vertex: substitute the axis value into the function.) Tj
+T*
+(- Factored zeros: a\(x-r_1\)\(x-r_2\)=0\\Rightarrow x=r_1,r_2) Tj
+T*
+(- Quadratic formula: x=frac{-b\\pmsqrt{b^2-4ac}}{2a}) Tj
+T*
+(- Complete the square: add \(frac b2\)^2 to both sides after isolating x^2+bx.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Sample Problems) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Sample 1) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Solve x^2-9=0.) Tj
+T*
+() Tj
+T*
+(x^2=9) Tj
+T*
+(x=\\pm3) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Sample 2) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Solve x^2+5x+6=0.) Tj
+T*
+() Tj
+T*
+(\(x+2\)\(x+3\)=0) Tj
+T*
+(x=-2,-3) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Sample 3) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Find the vertex of f\(x\)=x^2-4x+1.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+43 0 obj
+<< /Type /Page /Parent 66 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 42 0 R >>
+endobj
+44 0 obj
+<< /Length 1429 >>
+stream
+BT
+/F1 9.5 Tf
+54 738 Td
+12 TL
+(x=-frac{-4}{2\(1\)}=2) Tj
+T*
+(f\(2\)=4-8+1=-3) Tj
+T*
+() Tj
+T*
+(Vertex: \(2,-3\)) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Classwork) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(1. Solve x^2=49.) Tj
+T*
+(2. Solve x^2-25=0.) Tj
+T*
+(3. Solve x^2+6x+8=0.) Tj
+T*
+(4. Solve x^2-3x-10=0.) Tj
+T*
+(5. Solve 2x^2+5x+2=0.) Tj
+T*
+(6. Find the axis of y=x^2-8x+3.) Tj
+T*
+(7. Find the vertex of y=x^2+2x-5.) Tj
+T*
+(8. Find the discriminant of x^2-4x+9=0.) Tj
+T*
+(9. Solve x^2+4x+1=0 using the quadratic formula.) Tj
+T*
+(10. Complete the square: rewrite x^2+10x as a squared binomial minus a constant.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Homework) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(1. Solve x^2=81.) Tj
+T*
+(2. Solve x^2-36=0.) Tj
+T*
+(3. Solve x^2+7x+12=0.) Tj
+T*
+(4. Solve x^2-x-20=0.) Tj
+T*
+(5. Solve 3x^2+11x+6=0.) Tj
+T*
+(6. Find the axis of y=x^2+10x-2.) Tj
+T*
+(7. Find the vertex of y=x^2-6x+4.) Tj
+T*
+(8. Find the discriminant of 2x^2+3x-5=0.) Tj
+T*
+(9. Solve x^2-2x-3=0 using the quadratic formula.) Tj
+T*
+(10. Complete the square: rewrite x^2-12x as a squared binomial minus a constant.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Teacher Answer Key) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Classwork Answers) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(1. x=\\pm7) Tj
+T*
+(2. x=\\pm5) Tj
+T*
+(3. x=-2,-4) Tj
+T*
+(4. x=5,-2) Tj
+T*
+(5. x=-frac12,-2) Tj
+T*
+(6. x=4) Tj
+T*
+(7. \(-1,-6\)) Tj
+T*
+(8. -20) Tj
+T*
+(9. x=-2\\pmsqrt3) Tj
+T*
+(10. \(x+5\)^2-25) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Homework Answers) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+45 0 obj
+<< /Type /Page /Parent 66 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 44 0 R >>
+endobj
+46 0 obj
+<< /Length 1366 >>
+stream
+BT
+/F1 9.5 Tf
+54 738 Td
+12 TL
+() Tj
+T*
+(1. x=\\pm9) Tj
+T*
+(2. x=\\pm6) Tj
+T*
+(3. x=-3,-4) Tj
+T*
+(4. x=5,-4) Tj
+T*
+(5. x=-frac23,-3) Tj
+T*
+(6. x=-5) Tj
+T*
+(7. \(3,-5\)) Tj
+T*
+(8. 49) Tj
+T*
+(9. x=3,-1) Tj
+T*
+(10. \(x-6\)^2-36) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(UNIT 10: EXPONENTIAL FUNCTIONS AND SEQUENCES) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Learning Targets) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(- Identify exponential growth and decay.) Tj
+T*
+(- Evaluate exponential functions.) Tj
+T*
+(- Rewrite exponential expressions to show rates.) Tj
+T*
+(- Write arithmetic and geometric sequences explicitly and recursively.) Tj
+T*
+(- Compare linear, quadratic, and exponential patterns from tables.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Unit Formula Sheet) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(- Exponential function: f\(x\)=ab^x) Tj
+T*
+(- Growth if b>1; decay if 0<b<1) Tj
+T*
+(- Arithmetic explicit: a_n=a_1+\(n-1\)d) Tj
+T*
+(- Geometric explicit: a_n=a_1r^{n-1}) Tj
+T*
+(- Arithmetic recursive: a_1=\\text{first term}, a_n=a_{n-1}+d) Tj
+T*
+(- Geometric recursive: a_1=\\text{first term}, a_n=ra_{n-1}) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Sample Problems) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Sample 1) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Evaluate f\(x\)=3\(2\)^x when x=4.) Tj
+T*
+() Tj
+T*
+(f\(4\)=3\(2\)^4=48) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Sample 2) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Find an explicit formula for 5,8,11,14,....) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+47 0 obj
+<< /Type /Page /Parent 66 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 46 0 R >>
+endobj
+48 0 obj
+<< /Length 1579 >>
+stream
+BT
+/F1 9.5 Tf
+54 738 Td
+12 TL
+(a_1=5,\\quad d=3) Tj
+T*
+(a_n=5+3\(n-1\)) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Sample 3) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Find an explicit formula for 2,10,50,250,....) Tj
+T*
+() Tj
+T*
+(a_1=2,\\quad r=5) Tj
+T*
+(a_n=2\(5\)^{n-1}) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Classwork) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(1. Evaluate 2^5.) Tj
+T*
+(2. Evaluate 4\(3\)^2.) Tj
+T*
+(3. Determine growth or decay: y=5\(1.2\)^x.) Tj
+T*
+(4. Determine growth or decay: y=7\(0.8\)^x.) Tj
+T*
+(5. Find the next three terms: 4,9,14,19,....) Tj
+T*
+(6. Find the next three terms: 3,6,12,24,....) Tj
+T*
+(7. Write an explicit formula for 7,10,13,16,....) Tj
+T*
+(8. Write an explicit formula for 5,15,45,135,....) Tj
+T*
+(9. Write a recursive rule for 2,7,12,17,....) Tj
+T*
+(10. Write a recursive rule for 4,20,100,500,....) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Homework) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(1. Evaluate 3^4.) Tj
+T*
+(2. Evaluate 2\(5\)^3.) Tj
+T*
+(3. Determine growth or decay: y=9\(1.05\)^x.) Tj
+T*
+(4. Determine growth or decay: y=12\(0.6\)^x.) Tj
+T*
+(5. Find the next three terms: 1,5,9,13,....) Tj
+T*
+(6. Find the next three terms: 2,8,32,128,....) Tj
+T*
+(7. Write an explicit formula for 6,11,16,21,....) Tj
+T*
+(8. Write an explicit formula for 3,12,48,192,....) Tj
+T*
+(9. Write a recursive rule for 9,12,15,18,....) Tj
+T*
+(10. Write a recursive rule for 6,30,150,750,....) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Teacher Answer Key) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Classwork Answers) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(1. 32) Tj
+T*
+(2. 36) Tj
+T*
+(3. growth) Tj
+T*
+(4. decay) Tj
+T*
+(5. 24,29,34) Tj
+T*
+(6. 48,96,192) Tj
+T*
+(7. a_n=7+3\(n-1\)) Tj
+ET
+endstream
+endobj
+49 0 obj
+<< /Type /Page /Parent 66 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 48 0 R >>
+endobj
+50 0 obj
+<< /Length 1388 >>
+stream
+BT
+/F1 9.5 Tf
+54 738 Td
+12 TL
+(8. a_n=5\(3\)^{n-1}) Tj
+T*
+(9. a_1=2,\\ a_n=a_{n-1}+5) Tj
+T*
+(10. a_1=4,\\ a_n=5a_{n-1}) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Homework Answers) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(1. 81) Tj
+T*
+(2. 250) Tj
+T*
+(3. growth) Tj
+T*
+(4. decay) Tj
+T*
+(5. 17,21,25) Tj
+T*
+(6. 512,2048,8192) Tj
+T*
+(7. a_n=6+5\(n-1\)) Tj
+T*
+(8. a_n=3\(4\)^{n-1}) Tj
+T*
+(9. a_1=9,\\ a_n=a_{n-1}+3) Tj
+T*
+(10. a_1=6,\\ a_n=5a_{n-1}) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(UNIT 11: RATIONAL EXPRESSIONS, RADICALS, AND INVERSES) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Learning Targets) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(- Simplify rational expressions.) Tj
+T*
+(- Multiply and divide rational expressions.) Tj
+T*
+(- Add and subtract rational expressions with common denominators.) Tj
+T*
+(- Simplify radical expressions.) Tj
+T*
+(- Find inverses of linear and simple quadratic-root functions.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Unit Formula Sheet) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(- Rational expression restrictions: denominator !=0.) Tj
+T*
+(- frac{ab}{ac}=frac bc, a!=0, c!=0) Tj
+T*
+(- frac ab*frac cd=frac{ac}{bd}) Tj
+T*
+(- frac ab\\divfrac cd=frac ab*frac dc) Tj
+T*
+(- frac ab+frac cb=frac{a+c}{b}) Tj
+T*
+(- sqrt{ab}=sqrt asqrt b) Tj
+T*
+(- Rationalizing: frac1{sqrt a}=frac{sqrt a}{a}) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Sample Problems) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Sample 1) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Simplify frac{x^2+5x}{x}.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+51 0 obj
+<< /Type /Page /Parent 66 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 50 0 R >>
+endobj
+52 0 obj
+<< /Length 1381 >>
+stream
+BT
+/F1 9.5 Tf
+54 738 Td
+12 TL
+(frac{x\(x+5\)}{x}=x+5,\\quad x!=0) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Sample 2) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Simplify sqrt{72}.) Tj
+T*
+() Tj
+T*
+(sqrt{72}=sqrt{36*2}=6sqrt2) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Sample 3) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Find the inverse of f\(x\)=sqrt{x-4}.) Tj
+T*
+() Tj
+T*
+(y=sqrt{x-4}) Tj
+T*
+(x=sqrt{y-4}) Tj
+T*
+(x^2=y-4) Tj
+T*
+(y=x^2+4) Tj
+T*
+() Tj
+T*
+(Answer: f^{-1}\(x\)=x^2+4, with inverse domain x>=0.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Classwork) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(1. Simplify frac{6x}{3}.) Tj
+T*
+(2. Simplify frac{x^2+3x}{x}.) Tj
+T*
+(3. Simplify frac{x^2-9}{x-3}.) Tj
+T*
+(4. Multiply frac{2x}{5}*frac{15}{4x}.) Tj
+T*
+(5. Divide frac{x}{3}\\divfrac{2x}{9}.) Tj
+T*
+(6. Add frac{3}{x}+frac{5}{x}.) Tj
+T*
+(7. Simplify sqrt{50}.) Tj
+T*
+(8. Simplify sqrt{27}.) Tj
+T*
+(9. Rationalize frac{4}{sqrt2}.) Tj
+T*
+(10. Find the inverse of f\(x\)=x-9.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Homework) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(1. Simplify frac{10x}{5}.) Tj
+T*
+(2. Simplify frac{x^2-4x}{x}.) Tj
+T*
+(3. Simplify frac{x^2-16}{x-4}.) Tj
+T*
+(4. Multiply frac{3x}{7}*frac{14}{9x}.) Tj
+T*
+(5. Divide frac{2x}{5}\\divfrac{x}{10}.) Tj
+T*
+(6. Add frac{7}{x}+frac{2}{x}.) Tj
+T*
+(7. Simplify sqrt{98}.) Tj
+T*
+(8. Simplify sqrt{48}.) Tj
+T*
+(9. Rationalize frac{3}{sqrt3}.) Tj
+T*
+(10. Find the inverse of f\(x\)=x+11.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Teacher Answer Key) Tj
+T*
+() Tj
+T*
+() Tj
+ET
+endstream
+endobj
+53 0 obj
+<< /Type /Page /Parent 66 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 52 0 R >>
+endobj
+54 0 obj
+<< /Length 1316 >>
+stream
+BT
+/F1 9.5 Tf
+54 738 Td
+12 TL
+() Tj
+T*
+(Classwork Answers) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(1. 2x) Tj
+T*
+(2. x+3, x!=0) Tj
+T*
+(3. x+3, x!=3) Tj
+T*
+(4. frac32) Tj
+T*
+(5. frac32) Tj
+T*
+(6. frac8x) Tj
+T*
+(7. 5sqrt2) Tj
+T*
+(8. 3sqrt3) Tj
+T*
+(9. 2sqrt2) Tj
+T*
+(10. f^{-1}\(x\)=x+9) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Homework Answers) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(1. 2x) Tj
+T*
+(2. x-4, x!=0) Tj
+T*
+(3. x+4, x!=4) Tj
+T*
+(4. frac23) Tj
+T*
+(5. 4) Tj
+T*
+(6. frac9x) Tj
+T*
+(7. 7sqrt2) Tj
+T*
+(8. 4sqrt3) Tj
+T*
+(9. sqrt3) Tj
+T*
+(10. f^{-1}\(x\)=x-11) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(UNIT 12: STATISTICS, DATA DISPLAYS, AND LINEAR MODELS) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Learning Targets) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(- Calculate measures of center and spread.) Tj
+T*
+(- Interpret dot plots, histograms, and box plot values computationally.) Tj
+T*
+(- Build and use two-way frequency tables.) Tj
+T*
+(- Calculate relative frequencies.) Tj
+T*
+(- Use linear models, residuals, and correlation values.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Unit Formula Sheet) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(- Mean: \\bar{x}=frac{\\sum x}{n}) Tj
+T*
+(- Median: middle number in ordered list.) Tj
+T*
+(- Mode: most frequent value.) Tj
+T*
+(- Range: \\max-\\min) Tj
+T*
+(- IQR: Q_3-Q_1) Tj
+T*
+(- Residual: y-\\hat y) Tj
+T*
+(- Linear model prediction: substitute x into \\hat y=mx+b) Tj
+ET
+endstream
+endobj
+55 0 obj
+<< /Type /Page /Parent 66 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 54 0 R >>
+endobj
+56 0 obj
+<< /Length 1521 >>
+stream
+BT
+/F1 9.5 Tf
+54 738 Td
+12 TL
+() Tj
+T*
+() Tj
+T*
+(Sample Problems) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Sample 1) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Find the mean of 4,6,8,10.) Tj
+T*
+() Tj
+T*
+(\\bar{x}=frac{4+6+8+10}{4}=7) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Sample 2) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Find the median of 3,9,4,10,6.) Tj
+T*
+() Tj
+T*
+(Order: 3,4,6,9,10. Median: 6) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Sample 3) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(For \\hat y=2x+1, find the residual when x=4 and observed y=12.) Tj
+T*
+() Tj
+T*
+(Predicted:) Tj
+T*
+(\\hat y=2\(4\)+1=9) Tj
+T*
+(Residual:) Tj
+T*
+(12-9=3) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Classwork) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(1. Find the mean of 2,4,6,8.) Tj
+T*
+(2. Find the median of 7,1,9,3,5.) Tj
+T*
+(3. Find the mode of 2,3,3,4,5,5,5.) Tj
+T*
+(4. Find the range of 12,4,18,9.) Tj
+T*
+(5. Find Q_1, Q_3, and IQR for 2,4,6,8,10,12,14.) Tj
+T*
+(6. For \\hat y=3x-2, predict y when x=5.) Tj
+T*
+(7. For \\hat y=4x+1, find the residual when x=2 and observed y=12.) Tj
+T*
+(8. Compute the joint relative frequency: table total 40, cell count 10.) Tj
+T*
+(9. Compute the marginal relative frequency: table total 50, row total 20.) Tj
+T*
+(10. State whether r=0.92 shows positive or negative correlation.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Homework) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(1. Find the mean of 5,10,15,20.) Tj
+T*
+(2. Find the median of 8,2,12,4,10,6.) Tj
+T*
+(3. Find the mode of 1,1,2,3,3,3,4.) Tj
+T*
+(4. Find the range of 21,15,7,30.) Tj
+T*
+(5. Find Q_1, Q_3, and IQR for 1,3,5,7,9,11,13.) Tj
+T*
+(6. For \\hat y=2x+6, predict y when x=7.) Tj
+ET
+endstream
+endobj
+57 0 obj
+<< /Type /Page /Parent 66 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 56 0 R >>
+endobj
+58 0 obj
+<< /Length 1442 >>
+stream
+BT
+/F1 9.5 Tf
+54 738 Td
+12 TL
+(7. For \\hat y=5x-3, find the residual when x=4 and observed y=20.) Tj
+T*
+(8. Compute the joint relative frequency: table total 80, cell count 12.) Tj
+T*
+(9. Compute the marginal relative frequency: table total 60, column total 15.) Tj
+T*
+(10. State whether r=-0.81 shows positive or negative correlation.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Teacher Answer Key) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Classwork Answers) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(1. 5) Tj
+T*
+(2. 5) Tj
+T*
+(3. 5) Tj
+T*
+(4. 14) Tj
+T*
+(5. Q_1=4,\\ Q_3=12,\\ IQR=8) Tj
+T*
+(6. 13) Tj
+T*
+(7. 3) Tj
+T*
+(8. 0.25 or 25\\%) Tj
+T*
+(9. 0.4 or 40\\%) Tj
+T*
+(10. positive) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Homework Answers) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(1. 12.5) Tj
+T*
+(2. 7) Tj
+T*
+(3. 3) Tj
+T*
+(4. 23) Tj
+T*
+(5. Q_1=3,\\ Q_3=11,\\ IQR=8) Tj
+T*
+(6. 20) Tj
+T*
+(7. 3) Tj
+T*
+(8. 0.15 or 15\\%) Tj
+T*
+(9. 0.25 or 25\\%) Tj
+T*
+(10. negative) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(UNIT 13: CUMULATIVE REVIEW AND FINAL EXAM PRACTICE) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Cumulative Formula Sheet) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(- Exponents: a^ma^n=a^{m+n}, \(a^m\)^n=a^{mn}, a^{-n}=frac1{a^n}) Tj
+T*
+(- Radicals: a^{1/n}=sqrt[n]a) Tj
+T*
+(- Slope: m=frac{y_2-y_1}{x_2-x_1}) Tj
+T*
+(- Line: y=mx+b) Tj
+T*
+(- Quadratic formula: x=frac{-b\\pmsqrt{b^2-4ac}}{2a}) Tj
+T*
+(- Axis: x=-frac b{2a}) Tj
+T*
+(- Average rate of change: frac{f\(b\)-f\(a\)}{b-a}) Tj
+T*
+(- Arithmetic sequence: a_n=a_1+\(n-1\)d) Tj
+ET
+endstream
+endobj
+59 0 obj
+<< /Type /Page /Parent 66 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 58 0 R >>
+endobj
+60 0 obj
+<< /Length 2061 >>
+stream
+BT
+/F1 9.5 Tf
+54 738 Td
+12 TL
+(- Geometric sequence: a_n=a_1r^{n-1}) Tj
+T*
+(- Mean: \\bar{x}=frac{\\sum x}{n}) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Final Exam Practice A: Student Version) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(1. Simplify 3\(2x-5\)+4x.) Tj
+T*
+(2. Simplify frac{x^9}{x^4}.) Tj
+T*
+(3. Simplify 64^{2/3}.) Tj
+T*
+(4. Solve 5x-7=18.) Tj
+T*
+(5. Solve -2x+3<=11.) Tj
+T*
+(6. Solve |x-6|=4.) Tj
+T*
+(7. Find the slope through \(2,3\) and \(8,15\).) Tj
+T*
+(8. Write the equation of a line with slope -3 and y-intercept 5.) Tj
+T*
+(9. Solve the system y=x+2, y=-x+8.) Tj
+T*
+(10. Evaluate f\(x\)=x^2-2x at x=5.) Tj
+T*
+(11. Find the average rate of change of f\(x\)=3x+1 from x=0 to x=4.) Tj
+T*
+(12. Multiply \(x+7\)\(x-2\).) Tj
+T*
+(13. Factor x^2+2x-15.) Tj
+T*
+(14. Solve x^2-4x-12=0.) Tj
+T*
+(15. Find the vertex of y=x^2-10x+9.) Tj
+T*
+(16. Determine growth or decay: y=4\(0.75\)^x.) Tj
+T*
+(17. Write an explicit formula for 3,8,13,18,....) Tj
+T*
+(18. Write an explicit formula for 2,6,18,54,....) Tj
+T*
+(19. Simplify sqrt{75}.) Tj
+T*
+(20. Find the mean of 6,8,10,12.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Final Exam Practice B: Student Version) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(1. Simplify -4\(x+3\)+9x.) Tj
+T*
+(2. Simplify \(a^3\)^4.) Tj
+T*
+(3. Simplify 125^{1/3}.) Tj
+T*
+(4. Solve frac{x}{4}+6=10.) Tj
+T*
+(5. Solve 3x-8>13.) Tj
+T*
+(6. Solve |2x+1|=7.) Tj
+T*
+(7. Find the slope through \(-1,4\) and \(3,12\).) Tj
+T*
+(8. Write the equation of a line with slope frac23 and y-intercept -1.) Tj
+T*
+(9. Solve the system x+y=11, x-y=3.) Tj
+T*
+(10. Evaluate g\(x\)=2x^2+1 at x=-3.) Tj
+T*
+(11. Find the average rate of change of f\(x\)=x^2 from x=2 to x=6.) Tj
+T*
+(12. Multiply \(x-5\)\(x-4\).) Tj
+T*
+(13. Factor x^2-11x+30.) Tj
+T*
+(14. Solve x^2+9x+20=0.) Tj
+T*
+(15. Find the vertex of y=x^2+6x-1.) Tj
+T*
+(16. Determine growth or decay: y=2\(1.4\)^x.) Tj
+T*
+(17. Write an explicit formula for 10,7,4,1,....) Tj
+T*
+(18. Write an explicit formula for 5,20,80,320,....) Tj
+T*
+(19. Simplify sqrt{108}.) Tj
+T*
+(20. Find the median of 9,1,5,7,3.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Teacher Answer Key) Tj
+T*
+() Tj
+T*
+() Tj
+ET
+endstream
+endobj
+61 0 obj
+<< /Type /Page /Parent 66 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 60 0 R >>
+endobj
+62 0 obj
+<< /Length 1034 >>
+stream
+BT
+/F1 9.5 Tf
+54 738 Td
+12 TL
+() Tj
+T*
+(Final Exam Practice A Answers) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(1. 10x-15) Tj
+T*
+(2. x^5) Tj
+T*
+(3. 16) Tj
+T*
+(4. x=5) Tj
+T*
+(5. x>=-4) Tj
+T*
+(6. x=10 or x=2) Tj
+T*
+(7. 2) Tj
+T*
+(8. y=-3x+5) Tj
+T*
+(9. \(3,5\)) Tj
+T*
+(10. 15) Tj
+T*
+(11. 3) Tj
+T*
+(12. x^2+5x-14) Tj
+T*
+(13. \(x+5\)\(x-3\)) Tj
+T*
+(14. x=6,-2) Tj
+T*
+(15. \(5,-16\)) Tj
+T*
+(16. decay) Tj
+T*
+(17. a_n=3+5\(n-1\)) Tj
+T*
+(18. a_n=2\(3\)^{n-1}) Tj
+T*
+(19. 5sqrt3) Tj
+T*
+(20. 9) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Final Exam Practice B Answers) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(1. 5x-12) Tj
+T*
+(2. a^{12}) Tj
+T*
+(3. 5) Tj
+T*
+(4. x=16) Tj
+T*
+(5. x>7) Tj
+T*
+(6. x=3 or x=-4) Tj
+T*
+(7. 2) Tj
+T*
+(8. y=frac23x-1) Tj
+T*
+(9. \(7,4\)) Tj
+T*
+(10. 19) Tj
+T*
+(11. 8) Tj
+T*
+(12. x^2-9x+20) Tj
+T*
+(13. \(x-5\)\(x-6\)) Tj
+T*
+(14. x=-4,-5) Tj
+T*
+(15. \(-3,-10\)) Tj
+T*
+(16. growth) Tj
+T*
+(17. a_n=10-3\(n-1\)) Tj
+T*
+(18. a_n=5\(4\)^{n-1}) Tj
+T*
+(19. 6sqrt3) Tj
+T*
+(20. 5) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(TEACHER IMPLEMENTATION NOTES) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+() Tj
+ET
+endstream
+endobj
+63 0 obj
+<< /Type /Page /Parent 66 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 62 0 R >>
+endobj
+64 0 obj
+<< /Length 1145 >>
+stream
+BT
+/F1 9.5 Tf
+54 738 Td
+12 TL
+(Suggested Weekly Routine) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(- Day 1: Formula sheet, vocabulary, and sample problems.) Tj
+T*
+(- Day 2: Guided classwork set, error analysis, and fluency drills.) Tj
+T*
+(- Day 3: Mixed practice and short quiz.) Tj
+T*
+(- Day 4: Homework review, reteaching, and extension problems.) Tj
+T*
+(- Day 5: Unit checkpoint or cumulative review.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Computational Practice Expectations) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Students should show:) Tj
+T*
+() Tj
+T*
+(- Substitution steps for evaluation problems.) Tj
+T*
+(- Inverse operations for equations.) Tj
+T*
+(- Sign changes when solving inequalities involving multiplication or division by negatives.) Tj
+T*
+(- Factoring steps for quadratic equations.) Tj
+T*
+(- Formula substitution for slope, vertex, quadratic formula, statistics, and sequences.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Recommended Assessment Types) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(- 5-question daily entrance ticket.) Tj
+T*
+(- 10-question weekly computational quiz.) Tj
+T*
+(- Unit test with 20 to 30 computational items.) Tj
+T*
+(- Cumulative final exam using Units 1 through 13.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+65 0 obj
+<< /Type /Page /Parent 66 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 64 0 R >>
+endobj
+66 0 obj
+<< /Type /Pages /Kids [ 3 0 R 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R 31 0 R 33 0 R 35 0 R 37 0 R 39 0 R 41 0 R 43 0 R 45 0 R 47 0 R 49 0 R 51 0 R 53 0 R 55 0 R 57 0 R 59 0 R 61 0 R 63 0 R 65 0 R ] /Count 32 >>
+endobj
+67 0 obj
+<< /Type /Catalog /Pages 66 0 R >>
+endobj
+xref
+0 68
+0000000000 65535 f 
+0000000015 00000 n 
+0000000085 00000 n 
+0000002185 00000 n 
+0000002312 00000 n 
+0000004346 00000 n 
+0000004473 00000 n 
+0000006573 00000 n 
+0000006700 00000 n 
+0000008262 00000 n 
+0000008389 00000 n 
+0000009990 00000 n 
+0000010119 00000 n 
+0000011282 00000 n 
+0000011411 00000 n 
+0000012750 00000 n 
+0000012879 00000 n 
+0000014156 00000 n 
+0000014285 00000 n 
+0000015515 00000 n 
+0000015644 00000 n 
+0000017040 00000 n 
+0000017169 00000 n 
+0000018329 00000 n 
+0000018458 00000 n 
+0000019686 00000 n 
+0000019815 00000 n 
+0000021343 00000 n 
+0000021472 00000 n 
+0000022856 00000 n 
+0000022985 00000 n 
+0000024224 00000 n 
+0000024353 00000 n 
+0000025749 00000 n 
+0000025878 00000 n 
+0000027489 00000 n 
+0000027618 00000 n 
+0000029123 00000 n 
+0000029252 00000 n 
+0000030533 00000 n 
+0000030662 00000 n 
+0000032081 00000 n 
+0000032210 00000 n 
+0000033566 00000 n 
+0000033695 00000 n 
+0000035177 00000 n 
+0000035306 00000 n 
+0000036725 00000 n 
+0000036854 00000 n 
+0000038486 00000 n 
+0000038615 00000 n 
+0000040056 00000 n 
+0000040185 00000 n 
+0000041619 00000 n 
+0000041748 00000 n 
+0000043117 00000 n 
+0000043246 00000 n 
+0000044820 00000 n 
+0000044949 00000 n 
+0000046444 00000 n 
+0000046573 00000 n 
+0000048687 00000 n 
+0000048816 00000 n 
+0000049903 00000 n 
+0000050032 00000 n 
+0000051230 00000 n 
+0000051359 00000 n 
+0000051634 00000 n 
+trailer
+<< /Size 68 /Root 67 0 R >>
+startxref
+51685
+%%EOF
